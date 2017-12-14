@@ -1,0 +1,38 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.top{
+	background-color: #fff; 
+}
+#welcome-white{
+	width: 20%;
+	bottom: 30%;
+	background-color: #FF05B3;
+}
+button, h3{
+	display: inline-block;
+}
+#welcome-pink{
+	top:20%;
+	width: 100%;
+}
+
+#left, #right{
+	background-color:#FF05B3;
+	text-decoration: none;
+}
+#left, #right{
+		background: #FF05B3;
+	color: #fff;
+}
+.entry{
+	vertical-align: middle;
+}
+.buttons{
+	margin-top: 30%;
+}
+.put-in{
+	border: 2px solid red;
+	padding: 20%;
+}
